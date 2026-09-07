@@ -36,4 +36,4 @@ const product = { name: "Mechanical Keyboard",
   }
 
 
-console.log(isAvailable(product));
+console.log(isAvailable(product));  
